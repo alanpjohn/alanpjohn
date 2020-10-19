@@ -4,26 +4,12 @@
 Currently Pursuing a Computer engineering degree. A Full stack developer/data scientist/devops engineer in the making. 
 Started off of my programming journey with JAVA in school moving on to JS for web development and java for android development. Moved to python for data analytics and machine learning while picking up some devops and cloud skills on the way. Its been quite journey and hopefully will continue to do so.
 
-### 🔧 Technologies & Tools
-
-<div style="margin-left:20%">
-<img src="https://simpleicons.org/icons/amazonaws.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/docker.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/kubernetes.svg" style="width:5%;" />
-<img src="https://simpleicons.org/icons/docker.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/python.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/javascript.svg" style="width:5%;" />
-<img src="https://simpleicons.org/icons/ubuntu.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/cplusplus.svg" style="width:5%;" /><img src="https://simpleicons.org/icons/angular.svg" style="width:5%;" />
-</div>
-
-
-
 ### &#x1f4c8; GitHub Stats
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheForeverLost&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheForeverLost&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheForeverLost&repo=PokemonShowdownBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ARgorithm&repo=Toolkit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-## Social media
-
-
 
 <!-- links to social media icons -->
 
