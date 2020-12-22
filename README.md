@@ -4,9 +4,9 @@
 Currently Pursuing a Computer engineering degree. A Full stack developer/data scientist/devops engineer in the making. 
 Started off of my programming journey with JAVA in school moving on to JS for web development and java for android development. Moved to python for data analytics and machine learning while picking up some devops and cloud skills on the way. Its been quite journey and hopefully will continue to do so.
 
-### 🔧 Technologies & Tools
+<!-- ### 🔧 Technologies & Tools
 
-<!-- <div style="margin:2%;display:grid;grid-template-columns:60px 60px 60px;grid-template-rows:60px 60px 60px;column-gap:20px;row-gap:20px;">
+<div style="margin:2%;display:grid;grid-template-columns:60px 60px 60px;grid-template-rows:60px 60px 60px;column-gap:20px;row-gap:20px;">
 <img src="https://simpleicons.org/icons/amazonaws.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/docker.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/kubernetes.svg" style="width:100%;" />
 <img src="https://simpleicons.org/icons/docker.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/python.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/javascript.svg" style="width:100%;" />
 <img src="https://simpleicons.org/icons/ubuntu.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/cplusplus.svg" style="width:100%;" /><img src="https://simpleicons.org/icons/angular.svg" style="width:100%;" />
