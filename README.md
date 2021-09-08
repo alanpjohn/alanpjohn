@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/TheForeverLost/TheForeverLost/master/header.png?token=AIQUPPRZDDTM7OJJANBW3ZS7RWUXI)
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi , I am Alan John.
-Currently Pursuing a Computer engineering degree. A Full stack developer/data scientist/devops engineer in the making. 
+Currently Pursuing a Computer engineering degree.
 Started off of my programming journey with JAVA in school moving on to JS for web development and java for android development. Moved to python for data analytics and machine learning while picking up some devops and cloud skills on the way. Its been quite journey and hopefully will continue to do so.
 
 <!-- ### 🔧 Technologies & Tools
