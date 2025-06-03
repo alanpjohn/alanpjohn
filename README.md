@@ -1,2 +1,12 @@
+<h1 align="center">Hi 👋, I'm Alan</h1>
+<h3 align="center">Cloud Engineer from India based in Manchester, UK</h3>
 
-![social_media_preview](https://user-images.githubusercontent.com/35735486/158160761-86fa883a-fc48-41d3-8cb3-97797d1e3aeb.png)
+- Hi, I am currently working with [Samey AI](https://www.samey.ai)
+
+- 🌱 I’m currently learning **Pingora, Distributed Multi-agent orchestration**
+
+- 📝 I sometimes (rarely) write articles on [https://alanjohn.dev](https://alanjohn.dev)
+
+- 📫 How to reach me **alanpjohn@outlook.com**
+
+- 📷 I take pictures [https://photos.alanjohn.dev](https://photos.alanjohn.dev)
